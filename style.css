@@ -1,0 +1,91 @@
+/* ---- reset ---- */ 
+
+body{ 
+  margin:0; 
+  font:normal 75% Arial, Helvetica, sans-serif; } 
+
+canvas{ 
+  display: block; 
+  vertical-align: bottom; } 
+
+/* ---- particles.js container ---- */ 
+
+#particles-js{ 
+  position:absolute; 
+  width: 100%; 
+  height: 100%; 
+  background-color: #ffffff; 
+  background-image: url(""); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: 50% 50%; } 
+
+/* ---- stats.js ---- */
+
+.count-particles{ 
+  background: #ffffff; 
+  position: absolute; 
+  top: 48px; 
+  left: 0; 
+  width: 80px; 
+  color: #ffffff; 
+  font-size: .8em; 
+  text-align: left; 
+  text-indent: 4px; 
+  line-height: 14px; 
+  padding-bottom: 2px; 
+  font-family: Helvetica, Arial, sans-serif; 
+  font-weight: bold; } .js-count-
+
+particles{ 
+  font-size: 1.1em; } #stats, 
+
+.count-particles{ 
+  -webkit-user-select: none; 
+  margin-top: 5px; margin-left: 5px; } #stats{ 
+  border-radius: 3px 3px 0 0; 
+  overflow: hidden; } 
+.count-particles{ 
+    border-radius: 0 0 3px 3px; }
+
+h1 {
+  font-family: 'Caveat', cursive;
+  margin: 0px;
+  color:  #202c43;
+  padding-top: 100px;
+  text-align: center;}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  color: #82afff;
+  margin: 0px;
+  font-size: 16px;
+  padding-top: 10px;
+  text-align: center;}
+
+body {
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #82afff; 
+  border-color: #82afff;
+  color: #ffffff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-family: 'Caveat', cursive;
+  border-radius: 12px;
+  cursor: pointer;  
+  width: 30%;
+  margin: 20px 35% 50px 35%;
+}
+
+button:hover {
+  background-color: #ffffff; 
+  color: #82afff;
+}
+

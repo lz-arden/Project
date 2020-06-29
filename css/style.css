@@ -7,7 +7,7 @@
 }
 
 .navlistPicture{
-  width: 200px;
+  width: 160px;
 }
 
 #navlist{
@@ -101,3 +101,45 @@
   font-family: 'Comfortaa', cursive;
 
 }
+
+#contact-body{
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #82afff; 
+  border-color: #82afff;
+  color: #ffffff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-family: 'Caveat', cursive;
+  border-radius: 12px;
+  cursor: pointer;  
+  width: 30%;
+  margin: 20px 35% 50px 35%;
+}
+
+#contact-h1 {
+  font-family: 'Caveat', cursive;
+  margin: 0px;
+  color:  #202c43;
+  padding-top: 100px;
+  text-align: center;}
+
+#contact-h2 {
+  font-family: 'Caveat', cursive;
+  color: #82afff;
+  margin: 0px;
+  font-size: 16px;
+  padding-top: 10px;
+  text-align: center;}
+
+.contact-main {
+  align-items: center;
+  justify-content: center;
+}
+  
