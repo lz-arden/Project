@@ -38,6 +38,7 @@
   top: 0;
   width: 100%;
   position: fixed;
+  z-index: 10;
   left: 0;
 }
 
@@ -142,4 +143,8 @@ button {
   align-items: center;
   justify-content: center;
 }
-  
+
+footer{
+  font-size: xx-small;
+  font-family: 'Comfortaa', cursive;
+}

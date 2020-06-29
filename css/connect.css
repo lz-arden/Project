@@ -6,10 +6,11 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgba(130, 176, 255, 0.877);
+  background-color: rgb(130, 176, 255);
   top: 0;
   width: 100%;
   position: fixed;
+  z-index: 10;
   left: 0;
 }
 
@@ -154,12 +155,9 @@ p {
   }
 }
  
- 
-  
-
-  
-
-  
- 
+footer{
+  font-size: xx-small;
+  font-family: 'Comfortaa', cursive;
+}
 
  
